@@ -1,0 +1,37 @@
+[
+  {
+    "Proveedor": "Movistar",
+    "NIF": "A87654321",
+    "Fecha": "FAC-001",
+    "Nº Factura": "2025-06-02",
+    "Importe": "277.89 EUR"
+  },
+  {
+    "Proveedor": "Vodafone",
+    "NIF": "C45678901",
+    "Fecha": "FAC-002",
+    "Nº Factura": "2025-06-03",
+    "Importe": "218.88 EUR"
+  },
+  {
+    "Proveedor": "Endesa",
+    "NIF": "D23456789",
+    "Fecha": "FAC-003",
+    "Nº Factura": "2025-06-04",
+    "Importe": "285.79 EUR"
+  },
+  {
+    "Proveedor": "Orange",
+    "NIF": "E34567890",
+    "Fecha": "FAC-004",
+    "Nº Factura": "2025-06-05",
+    "Importe": "51.45 EUR"
+  },
+  {
+    "Proveedor": "Iberdrola",
+    "NIF": "B12345678",
+    "Fecha": "FAC-005",
+    "Nº Factura": "2025-06-06",
+    "Importe": "177.48 EUR"
+  }
+]
